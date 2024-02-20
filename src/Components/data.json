@@ -2,8 +2,8 @@
   {
     "key": 1,
     "package": "Anubhav kumar",
-    "rate": 3235,
-    "total": 46566,
+    "rate": 3000,
+    "total": 40000,
     "activities": [
       {
         "id": 1,
@@ -26,8 +26,8 @@
   {
     "key": 2,
     "package": "Abhishek kumar",
-    "rate": 3235,
-    "total": 46566,
+    "rate": 5000,
+    "total": 50000,
     "activities": [
       {
         "id": 1,
